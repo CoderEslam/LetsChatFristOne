@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608218674435",
+    "firebase_url": "https://letschatingmaster-default-rtdb.firebaseio.com",
+    "project_id": "letschatingmaster",
+    "storage_bucket": "letschatingmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608218674435:android:f9bdd746785f378950a536",
+        "android_client_info": {
+          "package_name": "com.gowtham.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608218674435-otu5llf6cqahasl91c7v74ucqaufh7mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gowtham.letschat",
+            "certificate_hash": "f367566018492b50a0de360a9e903ef2ccef19e9"
+          }
+        },
+        {
+          "client_id": "608218674435-np0vsqnf7q4lj2gnvcpmermi02s1luih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiad-VnIBL55-KHBTdzBKPm3fLGl5S8fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608218674435-np0vsqnf7q4lj2gnvcpmermi02s1luih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
